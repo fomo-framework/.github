@@ -10,7 +10,7 @@ Fomo is a web application framework based.
 
 We tried to implement FOMO in the simplest possible way so that anyone can use it.
 
-- Fomo supports the following:
+Fomo supports the following:
 - Simple, fast routing engine.
 - Processing work in the background
 - Queued job processing,and....
